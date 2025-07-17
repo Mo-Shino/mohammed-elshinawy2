@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 14px;
+        letter-spacing: .07em;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st5, .st4 {
+        fill: #303038;
+      }
+
+      .st6 {
+        stroke: #303038;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .st6, .st1, .st7 {
+        display: none;
+      }
+
+      .st6, .st8 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: url(#radial-gradient);
+      }
+
+      .st2, .st3 {
+        opacity: .2;
+      }
+
+      .st3 {
+        fill: url(#radial-gradient1);
+      }
+
+      .st4 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: .03em;
+      }
+
+      .st9 {
+        fill: #ededee;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="311.51" cy="-5306.85" fx="311.51" fy="-5306.85" r="34.88" gradientTransform="translate(-121.68 -288.18) scale(1.47 -.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient1" cx="195.74" cy="-5306.85" fx="195.74" fy="-5306.85" r="34.88" gradientTransform="translate(-121.68 -288.18) scale(1.47 -.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="OBJECTS">
+    <g class="st1">
+      <text class="st4" transform="translate(153.9 113.33)"><tspan x="0" y="0">FACEBOOK</tspan></text>
+      <text class="st0" transform="translate(183.83 133.33)"><tspan x="0" y="0">BLACK SYMBOL</tspan></text>
+    </g>
+    <g>
+      <g class="st7">
+        <ellipse class="st2" cx="334.83" cy="396.43" rx="71.93" ry="6.44"/>
+        <ellipse class="st3" cx="165.17" cy="396.43" rx="71.93" ry="6.44"/>
+      </g>
+      <g class="st7">
+        <path class="st5" d="M165.17,205h0c-29.43,0-53.51,24.08-53.51,53.51h0c0,29.43,24.08,53.51,53.51,53.51h0c29.43,0,53.51-24.08,53.51-53.51h0c0-29.43-24.08-53.51-53.51-53.51Z"/>
+        <path class="st8" d="M175.85,261.05h-9.49v30.54h-14.07v-30.54h-6.69v-11.96h6.69v-7.74c0-5.53,2.63-14.2,14.19-14.2l10.42.04v11.6h-7.56c-1.24,0-2.98.62-2.98,3.26v7.04h10.72l-1.23,11.94Z"/>
+      </g>
+      <g>
+        <path class="st6" d="M334.83,205.87h0c-29.43,0-53.51,24.08-53.51,53.51h0c0,29.43,24.08,53.51,53.51,53.51h0c29.43,0,53.51-24.08,53.51-53.51h0c0-29.43-24.08-53.51-53.51-53.51Z"/>
+        <path class="st9" d="M315.6,245.36h-40.42v130.09h-59.93v-130.09h-28.5v-50.93h28.5v-32.96c0-23.57,11.19-60.47,60.46-60.47l44.39.19v49.44h-32.21c-5.29,0-12.71,2.64-12.71,13.88v29.97h45.66l-5.23,50.88Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
