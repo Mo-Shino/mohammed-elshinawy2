@@ -51,14 +51,15 @@
             }
         });
         
-        // PDF iframe error handling
+        // PDF iframe error fallback
         const pdfIframes = document.querySelectorAll('.project-pdf iframe');
         pdfIframes.forEach(iframe => {
-            iframe.addEventListener('error', () => {
-                iframe.style.display = 'none';
-                iframe.nextElementSibling.style.display = 'block';
-            });
+          iframe.addEventListener('error', () => {
+            iframe.style.display = 'none';
+            iframe.nextElementSibling.style.display = 'block';
+          });
         });
+
         
         // Image lazy loading enhancement
         const images = document.querySelectorAll('img');
