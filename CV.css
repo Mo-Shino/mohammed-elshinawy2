@@ -1545,11 +1545,12 @@ max-width: 100%;
     }
 
     .contact-content h2 {
-        font-size: 2rem;
+        font-size: 1rem;
+        text-align: center;
     }
 
     .contact-content p {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     .social-media h3 {
@@ -1563,7 +1564,7 @@ max-width: 100%;
 
     .social-card {
         padding: 1rem;
-        width: 340px;
+        width: 300px;
         margin: 0 auto;
     }
 
@@ -1581,7 +1582,7 @@ max-width: 100%;
 }
 
 /* Extra Small Devices */
-@media (max-width: 320px) {
+@media (max-width: 350px) {
     :root {
         --section-padding: 2.5rem;
         --container-padding: 0.8rem;
@@ -1627,9 +1628,39 @@ max-width: 100%;
     .section-header h2 {
         font-size: 1.8rem;
     }
+
+    /****/
+    .section-header {
+        margin-bottom: 2.5rem;
+    }
+    
+    .section-header h2 {
+        font-size: 2.5rem;
+        margin-bottom: 0.8rem;
+    }
+    
+    .section-header p {
+        font-size: 0.95rem;
+    }
+    
+    .portfolio-item-image {
+        height: 150px;
+    }
+    
+    .portfolio-item-content {
+        padding: 1.2rem;
+    }
     
     .contact-content h2 {
         font-size: 1.8rem;
+    }
+
+    .contact-content p {
+        font-size: 0.8rem;
+    }
+
+    .contact-item{   
+        font-size: 0.6rem;
     }
     
     .social-media h3 {
@@ -1638,6 +1669,7 @@ max-width: 100%;
     
     .social-card {
         padding: 0.8rem;
+        width: 230px;
     }
     
     .social-card h4 {
