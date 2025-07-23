@@ -165,6 +165,7 @@
             overflow: hidden;
             position: relative;
             transition: transform 0.3s ease;
+            margin: 0 auto;
         }
         
         .project-image:hover {
