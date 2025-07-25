@@ -1582,7 +1582,7 @@ max-width: 100%;
 }
 
 /* Extra Small Devices */
-@media (max-width: 350px) {
+@media (max-width: 372px) {
     :root {
         --section-padding: 2.5rem;
         --container-padding: 0.8rem;
