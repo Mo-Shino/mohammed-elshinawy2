@@ -1025,6 +1025,8 @@ max-width: 100%;
 .social-card:nth-child(4) { --social-delay: 0.4s; }
 .social-card:nth-child(5) { --social-delay: 0.5s; }
 .social-card:nth-child(6) { --social-delay: 0.6s; }
+.social-card:nth-child(7) { --social-delay: 0.7s; }
+
 
 .social-card::before {
     content: '';
@@ -1077,6 +1079,15 @@ max-width: 100%;
 }
 
 .social-card.behance:hover .social-icon {
+    color: var(--light-gray);
+}
+
+.social-card.khamsat:hover {
+    background: linear-gradient(135deg, #f6b504, #ff9900);
+    color: white;
+}
+
+.social-card.khamsat:hover .social-icon {
     color: var(--light-gray);
 }
 
